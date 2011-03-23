@@ -1,0 +1,2 @@
+A GUI of tetheredboot;
+Also has a built-in 'Background Booter' service; When a device is detected in DFU mode, tetheredboot boots it.

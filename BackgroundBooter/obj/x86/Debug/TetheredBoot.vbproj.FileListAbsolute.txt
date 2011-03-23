@@ -1,0 +1,13 @@
+C:\Users\Stan\documents\visual studio 2010\Projects\TetheredBoot\TetheredBoot\bin\Debug\Ionic.Zip.dll
+C:\Users\Stan\documents\visual studio 2010\Projects\TetheredBoot\TetheredBoot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stan\documents\visual studio 2010\Projects\TetheredBoot\TetheredBoot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Stan\documents\visual studio 2010\Projects\TetheredBoot\TetheredBoot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Stan\Documents\Visual Studio 2010\Projects\TetheredBoot\TetheredBoot\bin\Debug\BackgroundBooter.exe
+C:\Users\Stan\Documents\Visual Studio 2010\Projects\TetheredBoot\TetheredBoot\bin\Debug\BackgroundBooter.pdb
+C:\Users\Stan\Documents\Visual Studio 2010\Projects\TetheredBoot\TetheredBoot\bin\Debug\BackgroundBooter.xml
+C:\Users\Stan\Documents\Visual Studio 2010\Projects\TetheredBoot\TetheredBoot\obj\x86\Debug\BackgroundBooter.Form1.resources
+C:\Users\Stan\Documents\Visual Studio 2010\Projects\TetheredBoot\TetheredBoot\obj\x86\Debug\BackgroundBooter.Help.resources
+C:\Users\Stan\Documents\Visual Studio 2010\Projects\TetheredBoot\TetheredBoot\obj\x86\Debug\BackgroundBooter.Resources.resources
+C:\Users\Stan\Documents\Visual Studio 2010\Projects\TetheredBoot\TetheredBoot\obj\x86\Debug\BackgroundBooter.exe
+C:\Users\Stan\Documents\Visual Studio 2010\Projects\TetheredBoot\TetheredBoot\obj\x86\Debug\BackgroundBooter.xml
+C:\Users\Stan\Documents\Visual Studio 2010\Projects\TetheredBoot\TetheredBoot\obj\x86\Debug\BackgroundBooter.pdb
