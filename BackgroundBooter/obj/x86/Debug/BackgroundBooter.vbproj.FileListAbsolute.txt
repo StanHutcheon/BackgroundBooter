@@ -1,0 +1,3 @@
+C:\Users\Stan\repo\BackgroundBooter\BackgroundBooter\obj\x86\Debug\BackgroundBooter.exe
+C:\Users\Stan\repo\BackgroundBooter\BackgroundBooter\obj\x86\Debug\BackgroundBooter.xml
+C:\Users\Stan\repo\BackgroundBooter\BackgroundBooter\obj\x86\Debug\BackgroundBooter.pdb
