@@ -37,7 +37,11 @@ Handles Me.Closed
         FormClosed1 = True
     End Sub
 
+<<<<<<< HEAD
     Private Sub Button1_Click_1(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+=======
+    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+>>>>>>> 89e19cdb1fcea046e1c0a6c67392b2148aadaa0b
         Label1.Select()
         Button1.Enabled = False
         System.IO.File.WriteAllBytes(temp & "\tetheredboot.exe", My.Resources.tetheredboot)
